@@ -1,1 +1,1 @@
-# ibm-git-assessment
+# ibm-git-assessment Simple Interest Calculator
